@@ -1,4 +1,7 @@
-**Binance Futures Trading Bot** 
+**Binance Futures Trading Bot - SuperGunther ** 
+
+Added Ema And Bollinger Bands Strategy ~ ( Suggested By @hahjbdd )
+
 
 USDT-Perpetual contracts only. 
 
@@ -6,7 +9,7 @@ USDT-Perpetual contracts only.
 
 2. Add API-key and Secret key to `keys.py`. You can get it from https://www.binance.com/en/my/settings/api-management
 
-3. Customize your strategies as you want. Use `macd.py` and `rsi.py` as examples
+3. Customize your strategies as you want. Use `macd.py` , `boll.py` `rsi.py` as examples
 
 **How to make your own script:**
 
@@ -162,3 +165,11 @@ print(f'Waiting {wait} sec')
 sleep(wait)
 ```
 After 300 sec the script starts checking signals again.
+
+
+
+
+
+i Dont Own This Script All The Credits Goes To Super Gunther 
+https://discord.gg/gntr
+https://www.youtube.com/@GuntherSuper
